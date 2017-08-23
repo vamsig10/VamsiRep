@@ -1,0 +1,90 @@
+************ Logging date: Thursday, August 17, 2017
+************ Logging date: Thursday, August 17, 2017
+18:14:58.363 (4764) * PhishMe Reporter started (3.0.1.0). OS version: Microsoft Windows NT 10.0.14393.0 (x64), Outlook version: 16.0.0.8201 (x86)
+        .378 (4764) Start Check and Register Addin.
+        .378 (4764) Ready.
+        .394 (9712) Generated serial: '38a957fa-c4a4-487b-a363-d6a61f9dd7e3'
+        .394 (9712) Current user's email address: 'vamsi.gamidi@aveva.com'
+        .394 (9712) Armor: 'c008dbb3d31a4853cedbe1a4ff24817a57ba4f1e21fdd703a33c370527659c54'
+        .394 (9712) Registration URL: 'https://clientregistration.phishme.co.uk'
+        .410 (9712) Company token: 'd4de2c8f4fc49a07'
+        .410 (9712) Registering add-in... URI: 'https://clientregistration.phishme.co.uk:443/register?t=d4de2c8f4fc49a07&s=38a957fa-c4a4-487b-a363-d6a61f9dd7e3&a=c008dbb3d31a4853cedbe1a4ff24817a57ba4f1e21fdd703a33c370527659c54'
+        .472 (9712) Sending HTTP GET request
+18:14:59.206 (4764) GetCustomUI for id: 'Microsoft.Outlook.Explorer'
+        .222 (4764) RibbonLoad called.
+        .509 (9712) Request successfully sent
+        .509 (9712) Response code: 200
+18:25:44.576 (4764) GetCustomUI for id: 'Microsoft.Outlook.Mail.Read'
+18:25:49.494 (4764) GetCustomUI for id: 'Microsoft.Mso.IMLayerUI'
+18:31:38.541 (4764) * PhishMe Reporter stopped.
+************ Logging date: Friday, August 18, 2017
+************ Logging date: Friday, August 18, 2017
+09:40:16.113 (8864) * PhishMe Reporter started (3.0.1.0). OS version: Microsoft Windows NT 10.0.14393.0 (x64), Outlook version: 16.0.0.8201 (x86)
+        .144 (8864) Start Check and Register Addin.
+        .144 (8864) Ready.
+09:40:17.383 (8864) GetCustomUI for id: 'Microsoft.Outlook.Explorer'
+        .383 (8864) RibbonLoad called.
+************ Logging date: Friday, August 18, 2017
+10:10:40.382 (8864) GetCustomUI for id: 'Microsoft.Outlook.Mail.Compose'
+10:11:02.051 (8864) GetCustomUI for id: 'Microsoft.Mso.IMLayerUI'
+10:14:05.840 (8864) GetCustomUI for id: 'Microsoft.Outlook.Mail.Read'
+************ Logging date: Friday, August 18, 2017
+16:58:53.615 (8864) GetCustomUI for id: 'Microsoft.Outlook.MeetingRequest.Read'
+************ Logging date: Friday, August 18, 2017
+18:14:24.675 (8864) * PhishMe Reporter stopped.
+************ Logging date: Monday, August 21, 2017
+************ Logging date: Monday, August 21, 2017
+09:28:20.191 (10728) * PhishMe Reporter started (3.0.1.0). OS version: Microsoft Windows NT 10.0.14393.0 (x64), Outlook version: 16.0.0.8201 (x86)
+        .206 (10728) Start Check and Register Addin.
+        .206 (10728) Ready.
+09:28:21.070 (10728) GetCustomUI for id: 'Microsoft.Outlook.Explorer'
+        .070 (10728) RibbonLoad called.
+09:35:15.035 (10728) GetCustomUI for id: 'Microsoft.Mso.IMLayerUI'
+************ Logging date: Monday, August 21, 2017
+12:16:49.458 (10728) GetCustomUI for id: 'Microsoft.Outlook.Mail.Read'
+************ Logging date: Monday, August 21, 2017
+16:43:34.608 (10728) * PhishMe Reporter stopped.
+************ Logging date: Monday, August 21, 2017
+************ Logging date: Monday, August 21, 2017
+16:43:36.755 (8920) * PhishMe Reporter started (3.0.1.0). OS version: Microsoft Windows NT 10.0.14393.0 (x64), Outlook version: 16.0.0.8201 (x86)
+        .767 (8920) Start Check and Register Addin.
+        .767 (8920) Ready.
+16:43:37.452 (8920) GetCustomUI for id: 'Microsoft.Outlook.Explorer'
+        .453 (8920) RibbonLoad called.
+16:48:12.362 (8920) GetCustomUI for id: 'Microsoft.Mso.IMLayerUI'
+************ Logging date: Monday, August 21, 2017
+18:10:53.925 (8920) * PhishMe Reporter stopped.
+************ Logging date: Tuesday, August 22, 2017
+************ Logging date: Tuesday, August 22, 2017
+09:49:30.021 (9140) * PhishMe Reporter started (3.0.1.0). OS version: Microsoft Windows NT 10.0.14393.0 (x64), Outlook version: 16.0.0.8201 (x86)
+        .068 (9140) Start Check and Register Addin.
+        .068 (9140) Ready.
+        .912 (9140) GetCustomUI for id: 'Microsoft.Outlook.Explorer'
+        .912 (9140) RibbonLoad called.
+09:59:12.860 (9140) GetCustomUI for id: 'Microsoft.Mso.IMLayerUI'
+************ Logging date: Tuesday, August 22, 2017
+16:46:49.748 (9140) GetCustomUI for id: 'Microsoft.Outlook.Mail.Compose'
+16:49:58.263 (9140) GetCustomUI for id: 'Microsoft.Word.Document'
+************ Logging date: Tuesday, August 22, 2017
+17:31:02.488 (9140) GetCustomUI for id: 'Microsoft.Outlook.Mail.Read'
+17:33:19.569 (9140) * PhishMe Reporter stopped.
+************ Logging date: Tuesday, August 22, 2017
+************ Logging date: Tuesday, August 22, 2017
+17:33:21.982 (2144) * PhishMe Reporter started (3.0.1.0). OS version: Microsoft Windows NT 10.0.14393.0 (x64), Outlook version: 16.0.0.8201 (x86)
+        .997 (2144) Start Check and Register Addin.
+        .997 (2144) Ready.
+17:33:22.888 (2144) GetCustomUI for id: 'Microsoft.Outlook.Explorer'
+        .904 (2144) RibbonLoad called.
+17:33:44.262 (2144) * PhishMe Reporter stopped.
+************ Logging date: Wednesday, August 23, 2017
+************ Logging date: Wednesday, August 23, 2017
+09:56:50.689 (6576) * PhishMe Reporter started (3.0.1.0). OS version: Microsoft Windows NT 10.0.14393.0 (x64), Outlook version: 16.0.0.8201 (x86)
+        .720 (6576) Start Check and Register Addin.
+        .720 (6576) Ready.
+09:56:51.548 (6576) GetCustomUI for id: 'Microsoft.Outlook.Explorer'
+        .548 (6576) RibbonLoad called.
+************ Logging date: Wednesday, August 23, 2017
+10:06:04.053 (6576) GetCustomUI for id: 'Microsoft.Mso.IMLayerUI'
+10:49:09.251 (6576) GetCustomUI for id: 'Microsoft.Outlook.Mail.Read'
+************ Logging date: Wednesday, August 23, 2017
+11:16:16.417 (6576) GetCustomUI for id: 'Microsoft.Outlook.Mail.Compose'

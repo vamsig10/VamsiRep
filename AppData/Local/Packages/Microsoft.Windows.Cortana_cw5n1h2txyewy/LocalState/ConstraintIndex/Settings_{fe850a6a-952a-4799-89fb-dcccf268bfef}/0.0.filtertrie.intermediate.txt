@@ -1,0 +1,4227 @@
+0	0
+لا~
+عح~
+حق~
+~
+zoom~
+zooming when you pinch with two fingers on the touchpad~
+zoom in~
+zone~
+zones~
+zone zones~
+zone automatically~
+your~
+your work or school~
+your work or school domain~
+your work or school cloud domain~
+your voice~
+your settings~
+your recovery key~
+your quick actions~
+your product id~
+your personalization settings~
+your pen settings~
+your pc~
+your pc name~
+your pc and help you, or offer to help someone else~
+your password~
+your passwords on this pc~
+your organization to manage your pc~
+your offline files~
+your mouse~
+your mouse to the show desktop button at the end of taskbar~
+your mouse settings~
+your lock screen~
+your lock screen background mode~
+your language list~
+your language and keyboard settings~
+your info~
+your homepage~
+your files with file history~
+your email & app account settings~
+your ease of access settings~
+your drives~
+your device to your work or school domain~
+your device to your work or school cloud domain~
+your device from your work or school~
+your country or region~
+your computer~
+your computer's status and resolve issues~
+your computer's memory problems~
+your browser settings on this pc~
+your battery life~
+your background mode~
+your advertising id~
+your account~
+your account picture~
+your account picture and profile settings~
+your accent color~
+you, or offer to help someone else~
+you write with~
+you use windows~
+you use three finger taps on the touchpad~
+you use the touchpad~
+you use four finger taps on the touchpad~
+you touch the screen~
+you tap with two fingers on the touchpad~
+you start windows~
+you sign in~
+you scroll with the mouse wheel~
+you pinch with two fingers on the touchpad~
+you move your mouse to the show desktop button at the end of taskbar~
+you have a 32-bit or 64-bit version of windows~
+you drag with two fingers on the touchpad~
+you drag three fingers on the touchpad~
+you double-tap the spacebar~
+you double-tap shift~
+you choose a text suggestion~
+you are right or left handed~
+xbox~
+xbox one controllers~
+x menu~
+wwan~
+wupdate~
+wupdater~
+wuapp~
+writing~
+write~
+write with~
+work~
+works~
+workspace~
+workplace~
+workgroup name~
+workgroup for this pc~
+work or school~
+work or school domain~
+work or school cloud domain~
+work or school account~
+work folders~
+words~
+word (japanese)~
+wlan~
+with~
+without the mouse or keyboard~
+with your computer~
+with windows search~
+with windows powershell when using windows + x menu~
+with visual cues~
+with two fingers on the touchpad~
+with the touch keyboard~
+with the mouse wheel~
+with homegroup~
+with file history~
+with devices~
+with a new edition of windows~
+with a clean install of windows~
+wireless~
+wireless xbox one controllers~
+wireless dis~
+wireless devices on or off~
+wireless connection~
+wipe~
+winup~
+wino~
+winows update~
+winf~
+windws~
+windwos update~
+windp~
+window~
+windows~
+windowsupdate~
+windows.old~
+windows vpn~
+windows version~
+windows upgrade~
+windows updte~
+windows updatw~
+windows updatre~
+windows updates~
+windows updater~
+windows update troubleshooter~
+windows update settings~
+windows update problems~
+windows update options~
+windows updare~
+windows updae~
+windows upate~
+windows upadte~
+windows uop~
+windows uodate~
+windows udpate~
+windows udate~
+windows u[~
+windows to go~
+windows to go startup options~
+windows system~
+windows system event log~
+windows suggest ease of access settings~
+windows startup~
+windows spotlight, picture, or slideshow as your lock screen background mode~
+windows sound~
+windows smart~
+windows smartscreen~
+windows smart screen~
+windows show when pressing alt+tab when using virtual desktops~
+windows show on the taskbar when using virtual desktops~
+windows settings~
+windows search~
+windows searches~
+windows running smoothly~
+windows restore~
+windows repair~
+windows recovery~
+windows powershell when using windows + x menu~
+windows pdate~
+windows password~
+windows online personalization gallery~
+windows on taskbar on secondary displays~
+windows on taskbar on primary display~
+windows mobility center~
+windows log~
+windows i~
+windows is activated~
+windows insider~
+windows insider program settings~
+windows ink~
+windows info~
+windows hint hints~
+windows hello~
+windows firewall~
+windows features on or off~
+windows event viewer~
+windows event log~
+windows device manager~
+windows defender~
+windows defender settings~
+windows credentials~
+windows cleanup~
+windows backup~
+windows background images~
+windows automatically by dragging them to the sides or corners of the screen~
+windows audio~
+windows animations on or off~
+windows activation~
+windows activate~
+windows account~
+windows 8~
+windows 8.1~
+windows 7~
+windows 7)~
+windows 64~
+windows 32~
+windows 10~
+windows 10 updates~
+windows + x menu~
+windown~
+windowa update~
+window, simultaneously resize any adjacent snapped window~
+window, show what i can snap next to it~
+window, automatically size it to fill available space~
+window version~
+window update~
+window updates~
+window supdate~
+window firewall~
+window fill~
+window features~
+window defender~
+window 7~
+windos update~
+windoes update~
+wind upd~
+win up~
+win update~
+wifi~
+wifi settings~
+wifi connection~
+width~
+widows update~
+widnows update~
+wi-fi~
+wi-fi settings~
+wi fi~
+who can use remote desktop~
+which processes start up automatically when you start windows~
+which icons appear on the taskbar~
+which hardware components are affecting your battery life~
+which hand you write with~
+which folders appear on start~
+which apps show notifications~
+which apps can run in the background~
+which apps are affecting your battery life~
+whether you are right or left handed~
+whether to use larger touch feedback~
+whether to show text suggestions~
+whether to have a touchpad delay~
+whether to enter tablet mode when you sign in~
+where is my scanner~
+when you use three finger taps on the touchpad~
+when you use the touchpad~
+when you use four finger taps on the touchpad~
+when you touch the screen~
+when you tap with two fingers on the touchpad~
+when you start windows~
+when you sign in~
+when you pinch with two fingers on the touchpad~
+when you move your mouse to the show desktop button at the end of taskbar~
+when you drag with two fingers on the touchpad~
+when you drag three fingers on the touchpad~
+when you double-tap the spacebar~
+when you double-tap shift~
+when you choose a text suggestion~
+when using windows + x menu~
+when using virtual desktops~
+when using the touchpad~
+when using narrator~
+when to turn on touch keyboard when narrator is on~
+when to turn off the screen~
+when to turn off the screen when plugged in~
+when to turn off the screen on battery power~
+when the screen is turned off~
+when the pc sleeps~
+when the pc sleeps when plugged in~
+when the pc sleeps on battery power~
+when the device switches tablet mode on or off~
+when pressing caps lock, num lock, and scroll lock~
+when pressing alt+tab when using virtual desktops~
+when plugged in~
+when narrator is on~
+when i’m using my pen~
+when it's moving~
+when i snap a window, show what i can snap next to it~
+when i snap a window, automatically size it to fill available space~
+when i resize a snapped window, simultaneously resize any adjacent snapped window~
+when i leave it alone for a period of time~
+when a mouse is connected~
+wheel~
+wheel wheels~
+wheel settings~
+what windows show when pressing alt+tab when using virtual desktops~
+what windows show on the taskbar when using virtual desktops~
+what version of windows do i have~
+what is the name of this computer~
+what is my computer name~
+what i can snap next to it~
+what happens when you use three finger taps on the touchpad~
+what happens when you use four finger taps on the touchpad~
+what happens when you drag three fingers on the touchpad~
+what happens when the device switches tablet mode on or off~
+what closing the lid does~
+web~
+website~
+websites can use your language list~
+website websites~
+webcam~
+web pages are displayed in tabs~
+web credentials~
+web cam~
+web browser~
+way measurements are displayed~
+way dates and lists are displayed~
+way currency is displayed~
+warnings~
+walpaper~
+wallpaper~
+wallpapers~
+wallpaper wallpapers~
+wall paper~
+w upd~
+vpn~
+vpn)~
+voume~
+volune~
+volumr~
+volumne~
+volume~
+volume settings~
+volume mixer~
+volume control~
+volue~
+voice~
+voice's speed~
+voice's pitch~
+voice voices~
+visual visuals~
+visual feedback when you touch the screen~
+visual feedback on or off~
+visual display~
+visual cues~
+vision~
+virus~
+virus viruses~
+virus protection~
+virtual~
+virtual private networks (vpn)~
+virtual desktop~
+virtual desktops~
+virtual desktop settings~
+viewer~
+view your product id~
+view your pc name~
+view updates~
+view system resource usage in task manager~
+view solutions to problems~
+view scanners and cameras~
+view reliability history~
+view recommended actions to keep windows running smoothly~
+view recent messages about your computer~
+view ram info~
+view processor info~
+view pen and touch info~
+view network status and tasks~
+view network connections~
+view network computers and devices~
+view local services~
+view installed updates~
+view installed fonts~
+view hidden~
+view event logs~
+view current accessibility settings~
+view archived messages~
+view all problem reports~
+view advanced system settings~
+video~
+videos~
+video videos~
+video player~
+video drivers~
+versions of windows~
+version of windows~
+variables~
+variables for your account~
+uupdate~
+usr~
+using windows + x menu~
+using virtual desktops~
+using the touchpad~
+using tap and send~
+using narrator~
+using my pen~
+use~
+users~
+users who can use remote desktop~
+users and~
+users and groups~
+userr~
+usere~
+usera~
+user users~
+user users people~
+user settings~
+user profiles~
+user profile properties~
+user name~
+user information~
+user control~
+user certificates~
+user accounts~
+user account control settings~
+user access~
+usee~
+used by your offline files~
+used apps in start~
+use your language list~
+use your advertising id~
+use windows~
+use uppercase letters when you double-tap shift~
+use three finger taps on the touchpad~
+use this pc~
+use the touchpad~
+use the standard keyboard layout as a touch keyboard option~
+use the camera to create an account picture~
+use start full screen~
+use small taskbar buttons~
+use remote desktop~
+use larger touch feedback~
+use four finger taps on the touchpad~
+use developer features~
+use automatic proxy configuration~
+use audio description for video~
+use an app to create an account picture~
+usb~
+usb settings~
+usb game controllers~
+usb drive~
+usage~
+usage settings~
+usage overview~
+usage limit~
+usage limits~
+usage in task manager~
+up~
+upt~
+ups~
+upp~
+upper~
+uppercase~
+uppercase letters when you double-tap shift~
+uppdate~
+upo~
+upodate~
+upg~
+upgrade~
+updte~
+updtes~
+updtae~
+upds~
+upde~
+updaye~
+updatw~
+updats~
+updatre~
+updating~
+update~
+updatew~
+updates~
+updates and security~
+updater~
+updatep~
+updatee~
+updated~
+update'~
+update windows~
+update updates~
+update settings~
+update security~
+update problems~
+update options~
+update drivers~
+update driver software~
+update device drivers~
+update and security~
+update and recovery~
+update  security~
+updata~
+updas~
+updarte~
+updare~
+updaet~
+updaes~
+updaate~
+upate~
+upates~
+upadte~
+upadate~
+up-dates~
+up your recovery key~
+up usb game controllers~
+up settings~
+up pin sign-in~
+up odbc data sources~
+up odbc data sources (64-bit)~
+up odbc data sources (32-bit)~
+up iscsi initiator~
+up iris sign-in~
+up fingerprint sign-in~
+up face sign-in~
+up disk space by deleting unnecessary files~
+up dialing rules~
+up dates~
+up data usage limit~
+up connection~
+up color inversion for magnifier~
+up automatically when you start windows~
+up a picture password~
+up a microphone~
+up a dial-up connection~
+up a connection or network~
+up a broadband connection~
+uop~
+uodate~
+uodates~
+unwanted software~
+uns~
+unst~
+unstill~
+unstall~
+unpair~
+unninstall~
+unnecessary files~
+unjoin~
+unist~
+unistall~
+unistall programs~
+unisntall~
+unint~
+unintall~
+uninsts~
+uninstll~
+uninstalln~
+uninstalll~
+uninstalling~
+uninstaller~
+uninstalled~
+uninstall updates~
+uninstall uninstalls~
+uninstall software~
+uninstall programs~
+uninstall printer~
+uninstall or~
+uninstall office~
+uninstall apps~
+uninstall a program~
+uninstakk~
+uninstaa~
+uninsstall~
+uninsall~
+uniinstall~
+underline keyboard shortcuts~
+underline keyboard shortcuts and other keyboard settings~
+un install~
+uinstall~
+uer~
+uefi~
+udpate~
+udpates~
+udate~
+udates~
+uas~
+uac~
+uac s~
+u[~
+u[date~
+typo typos~
+typing settings~
+typing privacy settings~
+type~
+typed words~
+typed characters~
+type types~
+type of file~
+two fingers on the touchpad~
+tv~
+tutorials~
+turned off~
+turn wireless devices on or off~
+turn windows features on or off~
+turn windows animations on or off~
+turn the touchpad on or off~
+turn the pen cursor on or off~
+turn the lock screen slideshow on or off~
+turn system icons on or off~
+turn smartscreen filter on or off for apps~
+turn screen saver on or off~
+turn rotation lock on or off~
+turn pen visual feedback on or off~
+turn on wireless~
+turn on windows defender~
+turn on wifi~
+turn on touch keyboard when narrator is on~
+turn on sound~
+turn on microphone~
+turn on firewall~
+turn on easy access keys~
+turn on device discovery~
+turn on bluetooth~
+turn off~
+turn off zooming when you pinch with two fingers on the touchpad~
+turn off wifi~
+turn off update~
+turn off touchpad when a mouse is connected~
+turn off touchpad right-clicking~
+turn off the screen~
+turn off the screen when plugged in~
+turn off the screen on battery power~
+turn off tap to click when using the touchpad~
+turn off scrolling when you drag with two fingers on the touchpad~
+turn off screen~
+turn off right clicks when you tap with two fingers on the touchpad~
+turn off notifications~
+turn off narrator~
+turn off firewall~
+turn off double-tap and drag on the touchpad~
+turn off cortana~
+turn off bluetooth~
+turn off airplane mode~
+turn narrator on or off~
+turn magnifier on or off~
+turn flicks on and off~
+turn features~
+turn daylight saving time on or off~
+turn cortana off~
+turn battery saver on or off~
+turn autoplay on or off~
+turn automatic proxy detection on or off~
+turn autocomplete in internet explorer on or off~
+turn auto brightness on or off~
+turn app notifications on or off~
+turn airplane mode on or off~
+tts~
+troubleshooting~
+troubleshooting history~
+troubleshooter~
+troubleshoot sound~
+troubleshoot printer~
+troubleshoot network~
+troubleshoot internet~
+troubleshoot audio~
+trouble shoot~
+trouble shooting~
+trouble shoot printer~
+trob~
+tricks, and suggestions as you use windows~
+tray~
+trash~
+trash bin~
+transparent~
+transparency~
+train the computer to recognize your voice~
+trackpad~
+trackpad track pad~
+track pad~
+tpm~
+touvh~
+touh~
+touch~
+touchpad’s scrolling direction~
+touchpad~
+touchpad when a mouse is connected~
+touchpad settings~
+touchpad right-clicking~
+touchpad on or off~
+touchpad edges~
+touchpad delay~
+touching~
+touch the screen~
+touch s~
+touch screen~
+touch pad~
+touch keyboard~
+touch keyboard when narrator is on~
+touch keyboard settings~
+touch keyboard option~
+touch input~
+touch input when i’m using my pen~
+touch input settings~
+touch info~
+touch gesture settings~
+touch feedback~
+touch dark darker~
+tools~
+tone when pressing caps lock, num lock, and scroll lock~
+toggle~
+toggle keys~
+toggle beep~
+toast toasts~
+to-speech settings~
+to your work or school domain~
+to your work or school cloud domain~
+to your pc and help you, or offer to help someone else~
+to your computer~
+to work or school~
+to windows 8~
+to windows 8.1~
+to windows 7~
+to use this pc~
+to use larger touch feedback~
+to turn on touch keyboard when narrator is on~
+to turn off the screen~
+to turn off the screen when plugged in~
+to turn off the screen on battery power~
+to title bar~
+to this pc~
+to this device~
+to the sides or corners of the screen~
+to the show desktop button at the end of taskbar~
+to the lock screen slideshow~
+to the internet~
+to start, taskbar, and action center~
+to speech~
+to show text suggestions~
+to show quick status~
+to reproduce a problem~
+to recognize your voice~
+to problems~
+to problem reports~
+to perform certain tasks~
+to open~
+to manage your pc~
+to keep windows running smoothly~
+to it~
+to help someone else~
+to have a touchpad delay~
+to group similar windows~
+to group similar windows on taskbar on secondary displays~
+to group similar windows on taskbar on primary display~
+to go~
+to go startup options~
+to fill available space~
+to enter tablet mode when you sign in~
+to display detailed status~
+to create an account picture~
+to connect to your pc and help you, or offer to help someone else~
+to click when using the touchpad~
+to be the main display~
+to be sent from this computer~
+to an earlier build~
+to allow swiping in from touchpad edges~
+to a second screen~
+title bar~
+tips, tricks, and suggestions as you use windows~
+tip tips~
+time~
+timezone~
+timeout~
+time zone~
+time zones~
+time zone automatically~
+time times~
+time settings~
+time on or off~
+time format~
+time formats~
+time for keyboard shortcuts~
+time date~
+time automatically~
+time and~
+time and language~
+time and date~
+tile~
+tiles~
+tiles on start~
+through windows firewall~
+three~
+three fingers on the touchpad~
+three finger taps on the touchpad~
+this pc~
+this device~
+this computer~
+third-party cookies~
+thickness~
+thick the cursor is~
+the~
+theme~
+themes~
+themes online~
+themes and related settings~
+themepack~
+theme themes~
+them to the sides or corners of the screen~
+the way measurements are displayed~
+the way dates and lists are displayed~
+the way currency is displayed~
+the touchpad’s scrolling direction~
+the touchpad~
+the touchpad on or off~
+the touch keyboard~
+the time zone~
+the time zone automatically~
+the time automatically~
+the theme~
+the text insertion point~
+the taskbar~
+the taskbar when using virtual desktops~
+the taskbar on multiple displays~
+the taskbar in tablet mode~
+the system environment variables~
+the standard keyboard layout as a touch keyboard option~
+the speed the cursor moves when you use the touchpad~
+the spacebar~
+the size of apps on the screen~
+the sign-in requirements~
+the sides or corners of the screen~
+the show desktop button at the end of taskbar~
+the search provider in internet explorer~
+the screen~
+the screen when plugged in~
+the screen resolution~
+the screen orientation~
+the screen on battery power~
+the screen is turned off~
+the screen for pen or touch input~
+the privacy statement~
+the primary button on your mouse~
+the picture on your lock screen~
+the pen cursor on or off~
+the pc sleeps~
+the pc sleeps when plugged in~
+the pc sleeps on battery power~
+the network~
+the narrator voice~
+the narrator voice's speed~
+the narrator voice's pitch~
+the mouse wheel~
+the mouse pointer size~
+the mouse pointer looks when it's moving~
+the mouse pointer display or speed~
+the mouse pointer color~
+the mouse or keyboard~
+the main display~
+the lock screen slideshow~
+the lock screen slideshow on or off~
+the lid does~
+the keyboard focus~
+the internet~
+the first letter of a sentence with the touch keyboard~
+the end of taskbar~
+the display~
+the device switches tablet mode on or off~
+the desktop~
+the date and time~
+the date and time format~
+the cursor when using narrator~
+the cursor moves when you use the touchpad~
+the cursor is~
+the current date and time formats~
+the computer without the mouse or keyboard~
+the computer when i leave it alone for a period of time~
+the computer to recognize your voice~
+the camera to create an account picture~
+the brightness level of the display~
+the background~
+the appearance and performance of windows~
+text~
+text-to-speech settings~
+text to speech~
+text suggestion~
+text suggestions~
+text suggestions as i type~
+text size~
+text insertion point~
+text and other items larger or smaller~
+tethering~
+test your internet~
+temp~
+temporary~
+temporary internet files~
+temporary internet file settings~
+temporary files~
+temp files~
+telnet~
+tell if an rss feed is available on a website~
+technical~
+taskview~
+tasks~
+tasks automatically~
+taskmanager~
+tasking~
+taskbar~
+taskbars~
+taskbar, and action center~
+taskbar, and action center transparent~
+taskbar when using virtual desktops~
+taskbar settings~
+taskbar on secondary displays~
+taskbar on primary display~
+taskbar on multiple displays~
+taskbar on all displays~
+taskbar notification area~
+taskbar location on screen~
+taskbar in tablet mode~
+taskbar icons~
+taskbar buttons~
+taskbar and navigation~
+task view~
+task scheduler~
+task manger~
+task manager~
+task bar~
+tap~
+taps on the touchpad~
+tap with two fingers on the touchpad~
+tap to click when using the touchpad~
+tap the spacebar~
+tap taps~
+tap shift~
+tap and send~
+tap and drag on the touchpad~
+take speech tutorials~
+tab~
+tabs~
+tablet~
+tablet pen settings~
+tablet pc settings~
+tablet mode~
+tablet mode when you sign in~
+tablet mode settings~
+tablet mode on or off~
+tablet buttons to perform certain tasks~
+tab when using virtual desktops~
+sytem~
+sytem restore~
+sysy~
+systme~
+systen~
+system~
+systems~
+systemrestore~
+system volume~
+system variables~
+system update~
+system updates~
+system tools~
+system systems~
+system sounds~
+system settings~
+system restor~
+system restore~
+system restore point~
+system resource usage in task manager~
+system resotre~
+system resore~
+system reset~
+system repair~
+system recovery~
+system protection~
+system properties~
+system path~
+system maintenance~
+system log~
+system information~
+system image~
+system icons on or off~
+system health report~
+system event log~
+system environment variables~
+system cleanup~
+system backup~
+system and security~
+system 32~
+syste,~
+sysr~
+sysinfo~
+sysem~
+sync~
+synced~
+synced on this pc~
+sync your settings~
+sync your personalization settings~
+sync your passwords on this pc~
+sync your language and keyboard settings~
+sync your ease of access settings~
+sync your browser settings on this pc~
+sync syncs~
+sync settings~
+sync file explorer and other settings~
+sync center~
+synaptics~
+switch~
+switches tablet mode on or off~
+swiping in from touchpad edges~
+swipe swipes~
+support~
+support info~
+sund~
+suggestion~
+suggestions~
+suggestions in start~
+suggestions as you use windows~
+suggestions as i type~
+suggestion suggestions~
+suggest windows~
+suggest suggests~
+suggest ease of access settings~
+stylus~
+streaming options~
+storg~
+store~
+storage~
+storage spaces~
+stop~
+stop printing~
+sticky~
+sticky keys~
+steps to reproduce a problem~
+status~
+statuses~
+status and tasks~
+status and resolve issues~
+statup~
+statement~
+starup~
+start~
+startup~
+startup settings~
+startup repair~
+startup programs~
+startup options~
+startup menu~
+startup manager~
+startup items~
+startup folder~
+startup disk~
+startup apps~
+startup and recovery~
+startuo~
+start-up~
+start, taskbar, and action center~
+start, taskbar, and action center transparent~
+start windows~
+start up programs~
+start up menu~
+start up automatically when you start windows~
+start up apps~
+start starts~
+start speech recognition~
+start settings~
+start screen~
+start or the taskbar~
+start narrator automatically~
+start menu~
+start magnifier automatically~
+start full screen~
+start fresh with a clean install of windows~
+start folder~
+star up~
+standard~
+standard keyboard layout as a touch keyboard option~
+sso~
+ssound~
+squiggled~
+spyware~
+spund~
+spound~
+spotlight~
+spotlight, picture, or slideshow as your lock screen background mode~
+spooler~
+spelling spellings~
+spell spells~
+spell check~
+speed~
+speed the cursor moves when you use the touchpad~
+speed test~
+speech~
+speech, inking, & typing privacy settings~
+speech tutorials~
+speech settings~
+speech recognition~
+specify which hand you write with~
+specify single- or double-click to open~
+speake~
+speaker~
+speakers~
+speaker volume~
+speach~
+space~
+spaces~
+spacebar~
+space-bar~
+space when you choose a text suggestion~
+space used by your offline files~
+space spaces~
+space by deleting unnecessary files~
+souund~
+sources~
+sources (64-bit)~
+sources (32-bit)~
+sount~
+souns~
+sounf~
+sound~
+sounds~
+sounds with visual cues~
+sounds as i type~
+soundf~
+soundd~
+soundcard~
+sound'~
+sound volume~
+sound test~
+sound sounds~
+sound setting~
+sound settings~
+sound not working~
+sound mixer~
+sound manager~
+sound devices~
+sound card~
+sound card settings~
+sounbd~
+soun d~
+soumd~
+soujnd~
+souind~
+soudn~
+soubd~
+sotrage~
+sopund~
+soound~
+someone to connect to your pc and help you, or offer to help someone else~
+someone else~
+solutions to problems~
+solutions to problem reports~
+solid color~
+solid color as your background mode~
+soiund~
+software~
+software up~
+software updates~
+snap~
+snapresize~
+snapped window~
+snapped window, simultaneously resize any adjacent snapped window~
+snap next to it~
+snap fill~
+snap assist~
+snap a window, show what i can snap next to it~
+snap a window, automatically size it to fill available space~
+smoothly~
+smartscreen~
+smartscreen settings~
+smartscreen filter on or off for apps~
+smart screen~
+smart screen filter~
+smaller~
+small taskbar buttons~
+slow~
+slideshow~
+slideshow, or solid color as your background mode~
+slideshow slideshows~
+slideshow on or off~
+slideshow as your lock screen background mode~
+slide show~
+slep~
+sleeps~
+sleeps when plugged in~
+sleeps on battery power~
+sleep timer~
+sleep sleeps~
+sleep settings~
+sleep mode~
+sleeo~
+sleeep~
+skydrive onedrive~
+size~
+size sizes~
+size of apps on the screen~
+size it to fill available space~
+siund~
+site sites~
+sistem~
+single- or double-click to open~
+single click~
+simultaneously resize any adjacent snapped window~
+similar windows~
+similar windows on taskbar on secondary displays~
+similar windows on taskbar on primary display~
+signin~
+sign-in~
+sign-in sign~
+sign-in requirements~
+sign-in options~
+sign in~
+sign in options~
+sides or corners of the screen~
+shut off~
+shut down~
+shown~
+show when pressing alt+tab when using virtual desktops~
+show what i can snap next to it~
+show visual feedback when you touch the screen~
+show underlines~
+show text suggestions~
+show text suggestions as i type~
+show taskbar on all displays~
+show suggestions in start~
+show shows~
+show shortcuts~
+show recently opened items in jump lists on start or the taskbar~
+show recently added apps in start~
+show quick status~
+show or hide file extensions~
+show or hide common icons on the desktop~
+show on the taskbar when using virtual desktops~
+show notifications~
+show most used apps in start~
+show more tiles on start~
+show icons~
+show hide~
+show hidden icons~
+show hidden files and folders~
+show file extensions~
+show desktop icons~
+show desktop button at the end of taskbar~
+show badges on the taskbar~
+show and hide fonts~
+shortcuts~
+shortcuts and other keyboard settings~
+shift~
+sharing~
+sharing settings~
+sharing center~
+share~
+share printers~
+sevices~
+set~
+setup~
+setup mic~
+settings~
+settings on this pc~
+settings for other devices~
+settings for multiple displays~
+settings for microsoft ime (japanese)~
+settings for displays, scanners, and printers~
+settings for content received using tap and send~
+settings before giving a presentation~
+settings are synced on this pc~
+settings app~
+setting settings~
+set up usb game controllers~
+set up printer~
+set up pin sign-in~
+set up odbc data sources~
+set up odbc data sources (64-bit)~
+set up odbc data sources (32-bit)~
+set up microphone~
+set up iscsi initiator~
+set up iris sign-in~
+set up fingerprint sign-in~
+set up face sign-in~
+set up dialing rules~
+set up data usage limit~
+set up color inversion for magnifier~
+set up a picture password~
+set up a microphone~
+set up a dial-up connection~
+set up a connection or network~
+set up a broadband connection~
+set time~
+set time zone~
+set the time zone automatically~
+set the time automatically~
+set tablet buttons to perform certain tasks~
+set sets~
+set restore point~
+set plan~
+set pin~
+set limit~
+set home page~
+set flicks to perform certain tasks~
+set default~
+set default printer~
+set default browser~
+set date~
+set clock~
+session cookies~
+servies~
+services~
+server~
+server settings~
+server servers~
+servcies~
+serivces~
+serial number~
+sentence with the touch keyboard~
+sentence sentences~
+sent from this computer~
+sensitivity~
+sense~
+send~
+send or receive a file~
+select which icons appear on the taskbar~
+select users who can use remote desktop~
+see which processes start up automatically when you start windows~
+see which hardware components are affecting your battery life~
+see which apps are affecting your battery life~
+see the current date and time formats~
+see organization or workgroup for this pc~
+see optional feature history~
+see if you have a 32-bit or 64-bit version of windows~
+see if windows is activated~
+security~
+security status~
+security settings~
+security policies~
+security center~
+security and maintenance~
+secure~
+secondary displays~
+second screen~
+search~
+searches~
+search settings~
+search provider in internet explorer~
+search options for files and folders~
+search online~
+search on device~
+search offline~
+search just my pc~
+search for updates~
+sd card~
+scrr~
+scroll~
+scrolling~
+scrolling when you drag with two fingers on the touchpad~
+scrolling direction~
+scroll with the mouse wheel~
+scroll scrolls~
+scroll lock~
+screen~
+screens~
+screensaver~
+screensavers~
+screen when plugged in~
+screen timeout~
+screen slideshow~
+screen slideshow on or off~
+screen sleep~
+screen size~
+screen settings~
+screen screens~
+screen saver~
+screen savers~
+screen saver settings~
+screen saver on or off~
+screen rotation~
+screen resolution~
+screen reader~
+screen orientation~
+screen on battery power~
+screen off~
+screen lock~
+screen keyboard~
+screen is turned off~
+screen for pen or touch input~
+screen display~
+screen color~
+screen brightness~
+screen background mode~
+screem~
+screee~
+school~
+school domain~
+school cloud domain~
+school account~
+scheduled tasks~
+schedule tasks~
+scanning~
+scanners~
+scanners, and printers~
+scanners and cameras~
+scan scanner scanners scanning~
+scan for malware and other potentially unwanted software~
+scan disk~
+scaling~
+scale~
+saving~
+saving time on or off~
+save~
+saver~
+saver on or off~
+save locations~
+same~
+safety~
+safesearch~
+safemode~
+safe mode~
+running smoothly~
+run programs made for previous versions of windows~
+run in the background~
+rules~
+rss feed is available on a website~
+rotation~
+rotation lock on or off~
+rotate~
+rotate screen~
+rotate rotates~
+room~
+rollback~
+roll back~
+roaming~
+roam roams~
+risk~
+ring rings~
+right~
+rights~
+rightclick~
+right-clicking~
+right or left handed~
+right handed~
+right click~
+right clicks when you tap with two fingers on the touchpad~
+review your computer's status and resolve issues~
+revert~
+reverse the touchpad’s scrolling direction~
+retore~
+restr~
+restore~
+restore your files with file history~
+restore system~
+restore restores~
+restore point~
+restore points~
+restore files~
+restore disk~
+restore computer~
+restore (windows 7)~
+restart in safe mode~
+resr~
+resource usage in task manager~
+resoul~
+resotre~
+resore~
+resolve issues~
+resolution~
+resolution resolutions~
+resize~
+resize windows~
+resize any adjacent snapped window~
+resize a snapped window, simultaneously resize any adjacent snapped window~
+reset~
+reset this pc~
+reset security policies~
+reset pin~
+reset pc~
+reset disk~
+reset computer~
+require~
+requirements~
+reproduce a problem~
+report~
+reports~
+replace sounds with visual cues~
+replace command prompt with windows powershell when using windows + x menu~
+repeated keystrokes~
+repair~
+repair windows~
+repair office~
+repair network problems~
+repair disk~
+rename~
+rename your pc~
+removing~
+remove~
+remover~
+remove, or manage email accounts~
+remove, or manage app accounts~
+remove windows background images~
+remove user~
+remove removes~
+remove programs~
+remove printer~
+remove pin~
+remove package~
+remove other people~
+remove or~
+remove files~
+remove devices~
+remove cookies~
+remove apps~
+remove account~
+remove a provisioning package~
+remove a program~
+removal~
+removable~
+removable drive~
+remoteapp and desktops~
+remoteapp and desktop connections~
+remote settings~
+remote desktop~
+remote desktop settings~
+remote assistance~
+remote assistance invitations to be sent from this computer~
+remote app~
+remote access to your computer~
+reliability monitor~
+reliability history~
+release~
+related settings~
+rejection~
+reinstall~
+register word (japanese)~
+region~
+regional~
+region and language~
+region & language settings~
+refresh~
+refresh refreshes~
+reformat~
+recyle bin~
+recycling~
+recycle~
+recyclebin~
+recycle bin~
+recover~
+recovery~
+recovery point~
+recovery options~
+recovery manager~
+recovery key~
+recovery drive~
+recovery disk~
+recovery disc~
+recover recovers~
+recording problems~
+recording devices~
+record steps to reproduce a problem~
+recommended maintenance tasks automatically~
+recommended actions to keep windows running smoothly~
+recognize your voice~
+recognition~
+recent~
+recently opened items in jump lists on start or the taskbar~
+recently added apps in start~
+recent messages about your computer~
+received using tap and send~
+receive a file~
+recdisk~
+rearrange multiple displays~
+reads typed words~
+reads typed characters~
+reads hints for controls and buttons~
+reader readers~
+read the privacy statement~
+read email~
+re-install~
+re-arrange~
+rate~
+ransomware~
+ram~
+ram info~
+radio~
+radio privacy settings~
+quieter when narrator is on~
+quick~
+quick status~
+quick actions~
+quick access~
+pwoer~
+pwer~
+ptinter~
+ptiner~
+prt~
+prrinter~
+proxy~
+proxy settings~
+proxy server~
+proxy server settings~
+proxy proxies~
+proxy detection on or off~
+proxy configuration~
+provision~
+provisioning~
+provisioning package~
+provider in internet explorer~
+protocol~
+protocol protocols~
+protection~
+protect protects~
+pror~
+prorams~
+properties~
+pronter~
+prompts~
+prompting~
+prompt with windows powershell when using windows + x menu~
+project~
+projector~
+projector projectors~
+projection~
+projecting~
+projecting to this pc~
+project to a second screen~
+project screen~
+progrm~
+progrms~
+progrma~
+progras~
+prograns~
+program~
+programs~
+programs made for previous versions of windows~
+programs and features~
+programms~
+programmes~
+programes~
+programa~
+program uninstall~
+program settings~
+program programs~
+program from the network~
+program files~
+program features~
+program and features~
+progra,~
+progams~
+profiles~
+profile settings~
+profile properties~
+profile profiles~
+product key~
+product id~
+processor info~
+processes start up automatically when you start windows~
+problem~
+problems~
+problems with your computer~
+problems with windows search~
+problems with homegroup~
+problems with devices~
+problem reports~
+prnters~
+prject~
+privileges~
+private~
+private networks (vpn)~
+private character editor~
+privacy~
+privacy statement~
+privacy settings~
+privacy settings for other devices~
+pritner~
+pritners~
+priter~
+priters~
+prinyer~
+printyer~
+printwer~
+printter~
+printrt~
+printing~
+printing problems~
+printewr~
+printetr~
+printes~
+printer~
+printert~
+printers~
+printerss~
+printersr~
+printers and scanners~
+printers and faxes~
+printers and devices~
+printers & scanners~
+printers  scanners~
+printerr~
+printere~
+printeres~
+printerd~
+printera~
+printer'~
+printer trouble~
+printer s~
+printer spooler~
+printer set~
+printer setup~
+printer settings~
+printer set up~
+printer queue~
+printer properties~
+printer offline~
+printer not working~
+printer not printing~
+printer drivers~
+printer default~
+printer control~
+printer and devices~
+printeer~
+print spooler~
+print printer printers printing~
+print jobs~
+prinrt~
+prinnter~
+pring~
+pringter~
+prineter~
+priner~
+priners~
+primter~
+primary~
+primary display~
+primary button on your mouse~
+priinter~
+prib~
+prg~
+prgrams~
+previous versions of windows~
+preview~
+preview, delete, or show and hide fonts~
+preview previews~
+preview desktop when you move your mouse to the show desktop button at the end of taskbar~
+pressing caps lock, num lock, and scroll lock~
+pressing alt+tab when using virtual desktops~
+pressed~
+press one key at a time for keyboard shortcuts~
+presentation~
+preinter~
+preformance~
+prediction predictions~
+predict predicts~
+pprinter~
+powr~
+power~
+powershell when using windows + x menu~
+powerr~
+powero~
+powere~
+power sleep~
+power set~
+power sett~
+power settings~
+power saving~
+power save~
+power saver~
+power plan~
+power option~
+power options~
+power off~
+power manager~
+power management~
+power button~
+power and sleep~
+power & sleep settings~
+poweer~
+powe op~
+potentially unwanted software~
+portrait~
+portal~
+porgrams~
+popups~
+popup blocker~
+pop-ups~
+pop ups~
+pop up blocker~
+policy~
+policy policies~
+policies~
+point~
+pointers~
+pointer speed~
+pointer size~
+pointer looks when it's moving~
+pointer display or speed~
+pointer color~
+plugged in~
+plays audio cues~
+playing audio~
+player~
+playback problems~
+playback devices~
+play key sounds as i type~
+plan~
+places~
+pitch~
+pirnter~
+pin~
+pinters~
+pinch~
+pinch zoom~
+pinch with two fingers on the touchpad~
+pin sign-in~
+pin pins~
+picture~
+picture, or slideshow as your lock screen background mode~
+picture pictures~
+picture password~
+picture on your lock screen~
+picture fit~
+picture and profile settings~
+physical~
+photo~
+photos~
+photo viewer~
+photo photos~
+phone and modem~
+personalize~
+personalization~
+personalization settings~
+permissions~
+period when you double-tap the spacebar~
+period periods~
+period of time~
+performance~
+performance of windows~
+performance information and tools~
+performace~
+perform recommended maintenance tasks automatically~
+perform certain tasks~
+perfomance~
+people~
+pen~
+pen visual feedback on or off~
+pen shortcuts~
+pen settings~
+pen pens~
+pen or touch input~
+pen cursor on or off~
+pen and touch~
+pen and touch info~
+peinter~
+pedometer~
+pc~
+pcinfo~
+pc support info~
+pc sleeps~
+pc sleeps when plugged in~
+pc sleeps on battery power~
+pc settings~
+pc security software~
+pc pcs~
+pc name~
+pc info~
+pc clean~
+pc and help you, or offer to help someone else~
+path~
+patches~
+patch patches~
+pasword~
+pass~
+password~
+passwords~
+passwords on this pc~
+password reset disk~
+password passwords~
+password change~
+passport~
+party cookies~
+partitions~
+partition manager~
+partion~
+parition~
+parental controls~
+parent parents~
+pan~
+panning~
+panel~
+palm~
+pair~
+paired devices~
+pair pairs~
+pages are displayed in tabs~
+pack~
+packs~
+package~
+packages~
+pack packs~
+overview~
+outlook~
+other~
+other settings~
+other potentially unwanted software~
+other people~
+other keyboard settings~
+other items larger or smaller~
+other ease of access settings~
+other devices~
+other apps quieter when narrator is on~
+osund~
+osk~
+orinter~
+orientation~
+orientation orientations~
+organize~
+organization~
+organization to manage your pc~
+organization organizations~
+organization or workgroup for this pc~
+or workgroup for this pc~
+or touch input~
+or the taskbar~
+or temporary files~
+or speed~
+or solid color as your background mode~
+or smaller~
+or slideshow as your lock screen background mode~
+or show and hide fonts~
+or school~
+or school domain~
+or school cloud domain~
+or school account~
+or repeated keystrokes~
+or remove programs~
+or remove other people~
+or remove devices~
+or remove a provisioning package~
+or remove a program~
+or region~
+or receive a file~
+or off~
+or offer to help someone else~
+or off for apps~
+or network~
+or manage email accounts~
+or manage app accounts~
+or left handed~
+or keyboard~
+or identify a display~
+or hide file extensions~
+or hide common icons on the desktop~
+or double-click to open~
+or disable session cookies~
+or corners of the screen~
+or allow third-party cookies~
+or allow pop-ups~
+or 64-bit version of windows~
+option~
+options~
+options to group similar windows on taskbar on secondary displays~
+options to group similar windows on taskbar on primary display~
+options for files and folders~
+optional~
+optional feature~
+optional features~
+optional feature history~
+option options~
+optimize your drives~
+optimize visual display~
+operating system~
+open~
+openvpn~
+opened items in jump lists on start or the taskbar~
+open devices~
+opaque~
+opacity~
+on~
+ons~
+online~
+one key at a time for keyboard shortcuts~
+one controllers~
+on-screen keyboard~
+on your mouse~
+on your lock screen~
+on touch keyboard when narrator is on~
+on this pc~
+on the touchpad~
+on the taskbar~
+on the taskbar when using virtual desktops~
+on the taskbar in tablet mode~
+on the screen~
+on the desktop~
+on taskbar on secondary displays~
+on taskbar on primary display~
+on start~
+on startup~
+on start or the taskbar~
+on secondary displays~
+on screen~
+on primary display~
+on or off~
+on or off for apps~
+on multiple displays~
+on easy access keys~
+on device discovery~
+on battery power~
+on and off~
+on all displays~
+on a website~
+of~
+off~
+offline~
+offline use~
+offline maps settings~
+offline files~
+offer to help someone else~
+off zooming when you pinch with two fingers on the touchpad~
+off touchpad when a mouse is connected~
+off touchpad right-clicking~
+off the screen~
+off the screen when plugged in~
+off the screen on battery power~
+off tap to click when using the touchpad~
+off scrolling when you drag with two fingers on the touchpad~
+off right clicks when you tap with two fingers on the touchpad~
+off for apps~
+off double-tap and drag on the touchpad~
+of windows~
+of time~
+of the screen~
+of the display~
+of taskbar~
+of file~
+of apps on the screen~
+of access settings~
+of access mouse settings~
+of access keyboard settings~
+of access center~
+of a sentence with the touch keyboard~
+odbc data sources~
+odbc data sources (64-bit)~
+odbc data sources (32-bit)~
+occasionally show suggestions in start~
+obdc~
+nvidia experience~
+nvidia control panel~
+nvidea~
+nvida~
+nvdia~
+num lock, and scroll lock~
+nouse~
+notification~
+notifications~
+notifications on or off~
+notifications are shown~
+notifications & actions settings~
+notification notifications~
+notification area~
+no sound~
+no audio~
+nividia~
+nivida~
+nfc~
+next to it~
+new~
+new user~
+new printer~
+new hardware~
+new edition of windows~
+new desktop~
+new account~
+networl~
+network~
+networks (vpn)~
+networking~
+networking and connection problems~
+network troubleshooting~
+network troubleshooter~
+network trouble shooter~
+network status~
+network status and tasks~
+network speed~
+network sharing center~
+network settings~
+network reset~
+network proxy settings~
+network problems~
+network passwords~
+network firewall~
+network discovery~
+network devices~
+network connections~
+network computers and devices~
+network and sharing center~
+network ada~
+network  internet~
+netow~
+ncpa.cpl~
+navigation~
+narrator~
+narrator voice~
+narrator voice's speed~
+narrator voice's pitch~
+narrator settings~
+narrator reads typed words~
+narrator reads typed characters~
+narrator reads hints for controls and buttons~
+narrator plays audio cues~
+narrator on or off~
+narrator is on~
+narrator follows the keyboard focus~
+narrator automatically~
+name~
+name names~
+my programs~
+my pen~
+my info~
+my device~
+my devices~
+my computer name~
+my account~
+music~
+music player~
+multi~
+multitasking~
+multitasking settings~
+multiple~
+multiple displays~
+multimon~
+multi-touch gesture settings~
+multi mon~
+msconfig~
+moving~
+moves when you use the touchpad~
+move your mouse to the show desktop button at the end of taskbar~
+mousw~
+mousr~
+mouse~
+mouses~
+mouser~
+mousepad~
+mousee~
+mouse'~
+mouse wheel~
+mouse to the show desktop button at the end of taskbar~
+mouse speed~
+mouse size~
+mouse settings~
+mouse sensitivity~
+mouse scroll~
+mouse properties~
+mouse pointer~
+mouse pointers~
+mouse pointer size~
+mouse pointer looks when it's moving~
+mouse pointer display or speed~
+mouse pointer color~
+mouse pad~
+mouse or keyboard~
+mouse mice~
+mouse key settings~
+mouse is connected~
+mouse cursor~
+mouse a~
+mouse and touchpad~
+mouse & touchpad settings~
+mouse  touchpad settings~
+mouise~
+moue~
+moues~
+moud~
+mouce~
+mouaw~
+mouae~
+motion privacy settings~
+mosue~
+most used apps in start~
+mose~
+more tiles on start~
+more themes online~
+more features with a new edition of windows~
+moouse~
+monitor~
+monitors~
+monitor to be the main display~
+monitor settings~
+monitor monitors~
+moniter~
+mode~
+modem~
+mode when you sign in~
+mode settings~
+mode on or off~
+mobility center~
+mobile~
+mobile hotspot settings~
+mmouse~
+mixer~
+misspelled words~
+mirror~
+miracas~
+miracast~
+midi~
+micrphone~
+microsoft windows~
+microsoft updates~
+microsoft sam~
+microsoft ime register word (japanese)~
+microsoft ime (japanese)~
+microsoft account~
+microphone~
+microphone setup~
+microphone settings~
+microphone privacy settings~
+mice~
+mic set~
+mic microphone~
+metered~
+messaging~
+messaging privacy settings~
+messages~
+messages about your computer~
+menu~
+memory~
+memory usage~
+memory problems~
+members to use this pc~
+media streaming options~
+measurements are displayed~
+mdm~
+mdm)~
+marketing~
+map~
+maps~
+maps update~
+maps settings~
+maps for offline use~
+map update~
+map updates~
+map maps~
+map app~
+manual~
+manual proxy server settings~
+managment~
+manage~
+manager~
+management~
+management settings for displays, scanners, and printers~
+management (mdm)~
+manage your pc~
+manage your account~
+manage work or school account~
+manage work folders~
+manage wire~
+manage wireless networks~
+manage windows credentials~
+manage wifi~
+manage web credentials~
+manage users~
+manage user certificates~
+manage storage spaces~
+manage printer~
+manage passwords~
+manage optional features~
+manage offline files~
+manage network passwords~
+manage map updates~
+manage file encryption certificates~
+manage email accounts~
+manage disk~
+manage disk space used by your offline files~
+manage device~
+manage computer certificates~
+manage browser add-ons~
+manage bitlocker~
+manage audio devices~
+manage app accounts~
+manage advanced sharing settings~
+manage add ons~
+manage account~
+manage accounts~
+malware~
+malware and other potentially unwanted software~
+make text and other items larger or smaller~
+make start, taskbar, and action center transparent~
+make other apps quieter when narrator is on~
+maintenance~
+maintenance tasks automatically~
+maintenance settings~
+main display~
+mail~
+magnifier~
+magnifier settings~
+magnifier on or off~
+magnifier magnifiers~
+magnifier follows the text insertion point~
+magnifier follows the keyboard focus~
+magnifier automatically~
+made for previous versions of windows~
+lua~
+lte~
+low vision~
+looks when it's moving~
+long notifications are shown~
+logs~
+login~
+login password~
+log in~
+locl~
+lock~
+lockscreen~
+locker~
+lock, num lock, and scroll lock~
+lock, and scroll lock~
+lock the taskbar~
+lock the computer when i leave it alone for a period of time~
+lock screen~
+lock screen slideshow~
+lock screen slideshow on or off~
+lock screen settings~
+lock screen background mode~
+lock on or off~
+lock locks~
+lock computer~
+location~
+locations~
+location settings~
+location privacy settings~
+location on screen~
+location locations~
+location history~
+local~
+locale~
+local users and groups~
+local services~
+local group policy editor~
+list~
+lists on start or the taskbar~
+lists are displayed~
+limit~
+limits~
+light~
+light mode~
+life~
+lid does~
+library libraries~
+level of the display~
+letters when you double-tap shift~
+letter of a sentence with the touch keyboard~
+let windows suggest ease of access settings~
+lenovo reachit~
+left~
+left handed~
+leave~
+leave it alone for a period of time~
+learning abilities~
+layout~
+layout as a touch keyboard option~
+larger~
+larger touch feedback~
+larger or smaller~
+lan~
+langue~
+language~
+languages~
+language to this device~
+language settings~
+language list~
+language languages~
+language and keyboard settings~
+language and keyboard options~
+landscape~
+lan settings~
+kid kids~
+ke~
+key~
+keys~
+keystrokes~
+keypad~
+keyboard~
+keyboards~
+keyboard when narrator is on~
+keyboard status~
+keyboard shortcuts~
+keyboard shortcuts and other keyboard settings~
+keyboard settings~
+keyboard problems~
+keyboard option~
+keyboard options~
+keyboard layout as a touch keyboard option~
+keyboard language~
+keyboard keyboards~
+keyboard focus~
+key sounds as i type~
+key settings~
+key keys~
+key at a time for keyboard shortcuts~
+keep windows running smoothly~
+jump lists on start or the taskbar~
+joystick~
+join~
+joint~
+join homegroup~
+japanese)~
+i’m using my pen~
+it~
+items larger or smaller~
+items in jump lists on start or the taskbar~
+it's moving~
+it to fill available space~
+it alone for a period of time~
+is~
+issues~
+iscsi initiator~
+is turned off~
+is on~
+is displayed~
+is connected~
+is available on a website~
+is activated~
+iris~
+iris sign-in~
+ipdate~
+ip address~
+in~
+invite someone to connect to your pc and help you, or offer to help someone else~
+invitations to be sent from this computer~
+inversion~
+inversion for magnifier~
+internt~
+internet~
+internet status~
+internet settings~
+internet security~
+internet properties~
+internet options~
+internet history~
+internet file settings~
+internet explorer~
+internet explorer on or off~
+internet connect~
+internet connection~
+internet connections~
+interner~
+interent~
+inter op~
+intenet~
+intel~
+int opt~
+instal~
+install~
+installed~
+installed updates~
+installed programs~
+installed fonts~
+installed apps~
+installation settings~
+install updates~
+install printer~
+install of windows~
+install font~
+install fonts~
+install a program from the network~
+install a printer~
+insider~
+insider program settings~
+insider insiders~
+insertion point~
+insertion insertions~
+insert inserts~
+input~
+input when i’m using my pen~
+input settings~
+ink~
+inking, & typing privacy settings~
+initiator~
+ininstall~
+infrared~
+info~
+info privacy settings~
+inernet~
+indows~
+indexing~
+indexing options~
+increase volume~
+increase font size~
+in the background~
+in task manager~
+in tabs~
+in tablet mode~
+in start~
+in requirements~
+in op~
+in options~
+in jump lists on start or the taskbar~
+in internet explorer~
+in internet explorer on or off~
+in from touchpad edges~
+in device management (mdm)~
+improve~
+improvement~
+impre~
+ime~
+ime register word (japanese)~
+ime (japanese)~
+imaging~
+image~
+images~
+ignore~
+ignore touch input when i’m using my pen~
+ignore brief or repeated keystrokes~
+ifi~
+if you have a 32-bit or 64-bit version of windows~
+if windows is activated~
+if websites can use your language list~
+if settings are synced on this pc~
+if narrator reads typed words~
+if narrator reads typed characters~
+if narrator plays audio cues~
+if narrator follows the keyboard focus~
+if magnifier follows the text insertion point~
+if magnifier follows the keyboard focus~
+if apps can use your advertising id~
+if an rss feed is available on a website~
+id~
+identify and repair network problems~
+identify a display~
+identifier~
+icon~
+icons~
+icons on the taskbar in tablet mode~
+icons on the desktop~
+icons on or off~
+icons appear on the taskbar~
+icon icons~
+i type~
+i snap a window, show what i can snap next to it~
+i snap a window, automatically size it to fill available space~
+i resize a snapped window, simultaneously resize any adjacent snapped window~
+i leave it alone for a period of time~
+i customize taskbars~
+i can snap next to it~
+hyperv~
+hyper-v~
+hyper v~
+hybernate~
+hp prin~
+how~
+how windows searches~
+how web pages are displayed in tabs~
+how to uninstall~
+how to turn off cortana~
+how to group similar windows~
+how to delete~
+how to delete cookies~
+how to add a printer~
+how thick the cursor is~
+how the mouse pointer looks when it's moving~
+how narrator reads hints for controls and buttons~
+how much ram do i have~
+how much memory do i have~
+how long notifications are shown~
+how far you scroll with the mouse wheel~
+how do i turn you off~
+how do i shut down~
+how do i disable cortana~
+how do i delete cookies~
+how do i customize taskbars~
+hotspot settings~
+hotspot hotspots~
+host~
+homepage~
+homegroup~
+homegroup password~
+homegroup homegroups~
+home page~
+home group~
+hoe~
+history~
+history privacy settings~
+hints for controls and buttons~
+highlight the cursor when using narrator~
+highlight misspelled words~
+highlight highlights~
+high contrast~
+high contrast settings~
+hide~
+hide the taskbar~
+hide the taskbar in tablet mode~
+hide fonts~
+hide file extensions~
+hide common icons on the desktop~
+hide app icons on the taskbar in tablet mode~
+hidden folders~
+hidden files and folders~
+hibernate~
+hey~
+hey cortana~
+help~
+help you, or offer to help someone else~
+help someone else~
+hello~
+hear a tone when pressing caps lock, num lock, and scroll lock~
+health report~
+headset~
+headphon~
+headphones~
+head phones~
+hdmi~
+have a touchpad delay~
+have a 32-bit or 64-bit version of windows~
+hard~
+hardware~
+hardware troubleshooter~
+hardware manager~
+hardware components are affecting your battery life~
+hardware and~
+hardware and sound~
+hardware and devices~
+hardrive~
+harddrive~
+hard drive~
+hard drives~
+hard drive space~
+hard disk~
+hard disk partitions~
+happens when you use three finger taps on the touchpad~
+happens when you use four finger taps on the touchpad~
+happens when you drag three fingers on the touchpad~
+happens when the device switches tablet mode on or off~
+hand~
+handed~
+handedness~
+hand you write with~
+guest~
+gtx~
+group~
+groups~
+group similar windows~
+group similar windows on taskbar on secondary displays~
+group similar windows on taskbar on primary display~
+group policy~
+group policy editor~
+graphic~
+graphics~
+graphics card~
+graphic card~
+gps~
+gpo~
+gpedit.msc~
+go~
+go startup options~
+go back to windows 8~
+go back to windows 8.1~
+go back to windows 7~
+go back to an earlier build~
+gnss~
+giving a presentation~
+get tips, tricks, and suggestions as you use windows~
+get pc support info~
+get more themes online~
+get more features with a new edition of windows~
+gesture settings~
+gesture gestures~
+generate a system health report~
+gamma~
+gamepad~
+game controllers~
+full~
+fullscreen~
+full screen~
+from your work or school~
+from touchpad edges~
+from this computer~
+from the network~
+fresh~
+fresh with a clean install of windows~
+free~
+free up space~
+free up disk space by deleting unnecessary files~
+free space~
+free disk space~
+four~
+four finger taps on the touchpad~
+for~
+format~
+formats~
+format hard disk partitions~
+format formats formatted~
+format disk~
+forgot~
+for your account~
+for video~
+for updates~
+for this pc~
+for solutions to problem reports~
+for previous versions of windows~
+for pen or touch input~
+for other devices~
+for offline use~
+for multiple displays~
+for microsoft ime (japanese)~
+for malware and other potentially unwanted software~
+for magnifier~
+for keyboard shortcuts~
+for files and folders~
+for each type of file~
+for each protocol~
+for displays, scanners, and printers~
+for different time zones~
+for developers settings~
+for controls and buttons~
+for content received using tap and send~
+for assigned access~
+for apps~
+for an account picture~
+for a period of time~
+fonts~
+font size~
+font settings~
+follows the text insertion point~
+follows the keyboard focus~
+folder~
+folders~
+folders appear on start~
+folder to the lock screen slideshow~
+folder options~
+folder folders~
+folder and search~
+focus~
+flip screen~
+flighting~
+flight flights~
+flicks to perform certain tasks~
+flicks on and off~
+flashdrive~
+flash player~
+flash drive~
+fix~
+fixes~
+fix windows update problems~
+fix sound~
+fix problems~
+fix problems with your computer~
+fix problems with windows search~
+fix problems with homegroup~
+fix problems with devices~
+fix printing problems~
+fix networking and connection problems~
+fix network connection~
+fix keyboard problems~
+fix fixes~
+fix bluescreen problems~
+fix audio recording problems~
+fix audio playback problems~
+fit~
+firw~
+firwall~
+first letter of a sentence with the touch keyboard~
+firmware~
+firewll~
+firewe~
+firewall~
+firewalll~
+firewall status~
+firewall settings~
+firewaa~
+fireq~
+firel~
+fireall~
+fire wall~
+fingers on the touchpad~
+fingerprint~
+fingerprint sign-in~
+fingerprint fingerprints~
+finger taps on the touchpad~
+finger print~
+find~
+find printer~
+find printers~
+find my printer~
+find my device~
+find finds~
+find devices~
+find and fix windows update problems~
+find and fix problems~
+find and fix problems with windows search~
+find and fix problems with homegroup~
+find and fix problems with devices~
+find and fix printing problems~
+find and fix networking and connection problems~
+find and fix keyboard problems~
+find and fix bluescreen problems~
+find and fix audio recording problems~
+find and fix audio playback problems~
+filter~
+filter on or off for apps~
+filter keys~
+filter filters~
+fill~
+fill available space~
+file~
+files~
+files with file history~
+files and folders~
+file types~
+file sharing~
+file settings~
+file recovery~
+file options~
+file history~
+file history settings~
+file history drive~
+file files~
+file extension~
+file extensions~
+file explorer options~
+file explorer and other settings~
+file encryption certificates~
+file backup~
+file asso~
+fiewall~
+fi settings~
+feedback~
+feedback when you touch the screen~
+feedback privacy settings~
+feedback on or off~
+feed is available on a website~
+feature~
+features~
+features with a new edition of windows~
+features on or off~
+features mode~
+feature history~
+feature features~
+fdisk~
+fax~
+fax faxes~
+favorite favorites~
+fast startup~
+fast boot~
+far you scroll with the mouse wheel~
+family~
+family safety~
+family members to use this pc~
+family families~
+factory settings~
+factory restore~
+factory reset~
+face sign-in~
+face recognition~
+face faces~
+f drive~
+extension~
+extensions~
+extension extensions~
+extend extends~
+extend display~
+explorer~
+explorer options~
+explorer on or off~
+explorer and other settings~
+exit~
+eventviewer~
+eventlog~
+event viewer~
+event logs~
+ethernet~
+ethernet settings~
+error~
+error log~
+erase~
+equilizer~
+equalizer~
+epson~
+environment variables~
+environment variables for your account~
+enter tablet mode when you sign in~
+enroll~
+enrollment~
+enroll in device management (mdm)~
+ener~
+energy~
+energy management~
+end of taskbar~
+encryption~
+encryption settings~
+encryption encryptions~
+encryption certificates~
+encrypt your offline files~
+encode encodes~
+enable remote~
+enable or disable session cookies~
+enable enables~
+enable device portal~
+enable cookies~
+emails~
+email settings~
+email privacy settings~
+email emails mail~
+email e-mail~
+email app~
+email accounts~
+email & app account settings~
+else~
+elevations~
+elan~
+editor~
+edition of windows~
+edit, or remove other people~
+edit the system environment variables~
+edit system~
+edit power plan~
+edit plan~
+edit local users and groups~
+edit limit~
+edit language and keyboard options~
+edit group policy~
+edit environment variables for your account~
+edges~
+edge edges~
+easy access keys~
+ease~
+ease of access settings~
+ease of access mouse settings~
+ease of access keyboard settings~
+ease of access center~
+earlier build~
+each type of file~
+each protocol~
+e-mail~
+dvices~
+dvice manager~
+dvd~
+dvd player~
+duplicate~
+duplicate duplicates~
+dual screen~
+dst~
+dskmgmt~
+drive~
+drives~
+driver~
+drivers~
+driver updates~
+driver manager~
+driver drivers~
+drive manager~
+drive management~
+drive f~
+drive drives~
+drive c~
+drag~
+dragging them to the sides or corners of the screen~
+drag with two fingers on the touchpad~
+drag three fingers on the touchpad~
+drag on the touchpad~
+dpi~
+down~
+download~
+downloaded maps~
+download maps for offline use~
+double~
+double-tap~
+double-tap the spacebar~
+double-tap shift~
+double-tap and drag on the touchpad~
+double-click to open~
+double click~
+domain~
+domain domains~
+does~
+do i customize taskbars~
+dns~
+divider~
+divices~
+divice manager~
+dive~
+disply~
+display~
+displayu~
+displays~
+displays, scanners, and printers~
+displayed~
+displayed in tabs~
+display size~
+display settings~
+display resolution~
+display properties~
+display or speed~
+display displays~
+display detailed status~
+display color~
+display brightness~
+display adapter~
+displau~
+displat~
+dispay~
+dispaly~
+dislay~
+disk~
+diskmgr~
+diskmgmt~
+diskmanager~
+diskmanagement~
+diskcleanup~
+disk utility~
+disk space~
+disk space used by your offline files~
+disk space by deleting unnecessary files~
+disk size~
+disk partitions~
+disk mangement~
+disk managment~
+disk manager~
+disk management~
+disk format~
+disk drive~
+disk drives~
+disk disks~
+disk defrag~
+disk cleanup~
+disk cleaner~
+disk clean up~
+discovery~
+disconnect~
+disconnect your device from your work or school~
+disck~
+disc space~
+disc manager~
+disc management~
+disc cleanup~
+disc clean up~
+disable~
+disable uac~
+disable session cookies~
+disable pop~
+disable firewall~
+disable disables~
+disable cortana~
+dis[~
+directory~
+direction~
+directaccess~
+directaccess settings~
+diplay~
+different~
+different time zones~
+dictionary~
+diaplay~
+dialup~
+dialogs~
+dialing rules~
+dial-up~
+dial-up settings~
+dial-up connection~
+dial dials~
+diagnose your computer's memory problems~
+dhcp~
+devv~
+devu~
+devui~
+devuce~
+devuces~
+devoce~
+devoces~
+devmgr~
+devmgmt~
+devmgmt.msc~
+devix~
+devive~
+devis~
+devises~
+devise manager~
+devin~
+deviec~
+devid~
+devide~
+devicxe~
+devicw~
+devics~
+device~
+devicew~
+devices~
+devices printers~
+devices on or off~
+devices manager~
+devices and printers~
+devices adn~
+devices  printers~
+devicers~
+devicem~
+devicemanager~
+devicee~
+devicees~
+deviced~
+deviceds~
+devicea~
+device to your work or school domain~
+device to your work or school cloud domain~
+device switches tablet mode on or off~
+device settings~
+device privacy~
+device printer~
+device portal~
+device n~
+device mnager~
+device manger~
+device mananger~
+device managr~
+device manager~
+device managers~
+device managere~
+device manager.~
+device manager'~
+device management~
+device management (mdm)~
+device manageer~
+device managaer~
+device manaer~
+device mamager~
+device maanger~
+device installation settings~
+device from your work or school~
+device encryption~
+device encryption settings~
+device drivers~
+device discovery~
+device devices~
+device and printers~
+device am~
+device ,~
+devicd~
+devicce~
+devic manager~
+devic e~
+developer~
+developers settings~
+developer mode~
+developer features~
+developer developers~
+devce~
+devces~
+dev man~
+detection on or off~
+detect or identify a display~
+detect detects~
+detail~
+details~
+detailed status~
+desktop~
+desktops~
+desktop when you move your mouse to the show desktop button at the end of taskbar~
+desktop wallpaper~
+desktop theme~
+desktop settings~
+desktop picture~
+desktop icons~
+desktop icon settings~
+desktop connections~
+desktop button at the end of taskbar~
+desktop background~
+desk top~
+description for video~
+dell touchpad~
+dell audio~
+deleting~
+deleting unnecessary files~
+delete~
+delete, or show and hide fonts~
+delete user~
+delete temporary~
+delete program~
+delete programs~
+delete map~
+delete maps~
+delete history~
+delete files~
+delete downloaded maps~
+delete cookies~
+delete cookies or temporary files~
+delete browsing history~
+delete apps~
+delete account~
+delay~
+dei~
+deives~
+deivce manager~
+deinstall~
+deices~
+deice manager~
+defualt~
+defrag~
+defragment and optimize your drives~
+defender~
+defender settings~
+defaut~
+default~
+defaults~
+default web browser~
+default video player~
+default settings~
+default save locations~
+default programs~
+default printer~
+default photo viewer~
+default music player~
+default map app~
+default file~
+default email app~
+default defaults~
+default browser~
+default brower~
+default audio~
+default apps~
+default app settings~
+default app for each type of file~
+default app for each protocol~
+defal~
+deevice manager~
+decryption~
+decode~
+decice~
+decices~
+daylight~
+daylight saving time on or off~
+dates and lists are displayed~
+date time~
+date format~
+date dates~
+date and time~
+date and time settings~
+date and time format~
+date and time formats~
+date & time settings~
+data~
+data usage settings~
+data usage overview~
+data usage limit~
+data usage limits~
+data sources~
+data sources (64-bit)~
+data sources (32-bit)~
+data sense~
+dark~
+dark mode~
+d drive~
+customize virtual desktop settings~
+customize the taskbar on multiple displays~
+customize taskbars~
+customize how to group similar windows~
+curso~
+cursor~
+cursors~
+cursor when using narrator~
+cursor speed~
+cursor size~
+cursor on or off~
+cursor moves when you use the touchpad~
+cursor is~
+cursor cursors~
+cursor blink rate~
+current date and time formats~
+current accessibility settings~
+currency is displayed~
+cues~
+cue cues~
+cryptolocker~
+cryptography~
+credentials~
+credential manager~
+create user~
+create system~
+create restore point~
+create recovery drive~
+create recovery disk~
+create new user~
+create and format hard disk partitions~
+create an account picture~
+create account~
+create a restore point~
+create a recovery drive~
+create a password reset disk~
+cpu~
+cpu cpus~
+country or region~
+country countries~
+cotana~
+cortona~
+cortna~
+cortana~
+cortana settings~
+cortana & search settings~
+correction corrections~
+correct corrects~
+corporate~
+corners of the screen~
+copy~
+copies~
+cookies~
+cookies or temporary files~
+controls~
+controls and buttons~
+controller~
+controllers~
+control the computer without the mouse or keyboard~
+control settings~
+control printers~
+control panel~
+contrast~
+contrast settings~
+content received using tap and send~
+contana~
+contacts privacy settings~
+contact contacts~
+connect~
+connection~
+connections~
+connection problems~
+connection or network~
+connected~
+connected devices~
+connected device settings~
+connect your device to your work or school domain~
+connect your device to your work or school cloud domain~
+connect wireless xbox one controllers~
+connect to~
+connect to your pc and help you, or offer to help someone else~
+connect to work or school~
+connect to wifi~
+connect to the internet~
+connect to printer~
+connect to internet~
+connect to a wireless display~
+connect to a network~
+connect internet~
+connect connects~
+connect connection~
+connect bluetooth~
+connect a printer~
+configure proxy server~
+configure advanced user profile properties~
+configuration~
+configuration manager~
+configuration configurations~
+computer~
+computers and devices~
+computername~
+computer's status and resolve issues~
+computer's memory problems~
+computer without the mouse or keyboard~
+computer when i leave it alone for a period of time~
+computer updates~
+computer to recognize your voice~
+computer sleep~
+computer settings~
+computer properties~
+computer name~
+computer memory~
+computer management~
+computer information~
+computer details~
+computer configuration~
+computer certificates~
+components are affecting your battery life~
+complete completes~
+compatibility mode~
+compatability~
+company~
+company companies~
+common~
+common icons on the desktop~
+command prompt with windows powershell when using windows + x menu~
+column~
+columns~
+color~
+colors~
+color to title bar~
+color to start, taskbar, and action center~
+color settings~
+color management~
+color management settings for displays, scanners, and printers~
+color inversion for magnifier~
+color colors~
+color calibration~
+color as your background mode~
+cloud domain~
+closing the lid does~
+closing lid~
+closed captioning settings~
+close the lid~
+close lid~
+clocl~
+clock~
+clocks for different time zones~
+clock settings~
+clock clocks~
+click~
+clicks when you tap with two fingers on the touchpad~
+clicking~
+click when using the touchpad~
+click to open~
+clen~
+cleartype text~
+clear type~
+clear text~
+clear space~
+clear location history~
+clear history~
+clear cookies~
+clear browsing history~
+clear browser~
+clean~
+cleanup~
+clean-up~
+clean up~
+clean pc~
+clean install of windows~
+clean disc~
+clean cookies~
+clean computer~
+choose your quick actions~
+choose your accent color~
+choose window~
+choose windows spotlight, picture, or slideshow as your lock screen background mode~
+choose which folders appear on start~
+choose which apps show notifications~
+choose which apps can run in the background~
+choose whether you are right or left handed~
+choose whether to use larger touch feedback~
+choose whether to show text suggestions~
+choose whether to have a touchpad delay~
+choose whether to enter tablet mode when you sign in~
+choose when to turn on touch keyboard when narrator is on~
+choose when to turn off the screen~
+choose when to turn off the screen when plugged in~
+choose when to turn off the screen on battery power~
+choose what windows show when pressing alt+tab when using virtual desktops~
+choose what windows show on the taskbar when using virtual desktops~
+choose what happens when the device switches tablet mode on or off~
+choose to allow swiping in from touchpad edges~
+choose if websites can use your language list~
+choose if settings are synced on this pc~
+choose if narrator reads typed words~
+choose if narrator reads typed characters~
+choose if narrator plays audio cues~
+choose if narrator follows the keyboard focus~
+choose if magnifier follows the text insertion point~
+choose if magnifier follows the keyboard focus~
+choose if apps can use your advertising id~
+choose how long notifications are shown~
+choose default~
+choose chose~
+choose background, slideshow, or solid color as your background mode~
+choose autoplay defaults~
+choose apps to show quick status~
+choose an app to display detailed status~
+choose an account for assigned access~
+choose a text suggestion~
+choose a power plan~
+choose a picture fit~
+choose a monitor to be the main display~
+choose a default web browser~
+choose a default video player~
+choose a default photo viewer~
+choose a default music player~
+choose a default map app~
+choose a default email app~
+choose a default app for each type of file~
+choose a default app for each protocol~
+child children~
+check~
+check windows updates~
+check updates~
+check security status~
+check network status~
+check keyboard status~
+check for~
+check for windows updates~
+check for updates~
+check for solutions to problem reports~
+check firewall status~
+check checks~
+characters~
+character editor~
+character characters~
+change~
+change your pen settings~
+change your password~
+change your mouse settings~
+change your homepage~
+change your country or region~
+change your account picture~
+change workgroup name~
+change windows to go startup options~
+change wifi settings~
+change wi-fi settings~
+change when the screen is turned off~
+change when the pc sleeps~
+change when the pc sleeps when plugged in~
+change when the pc sleeps on battery power~
+change what happens when you use three finger taps on the touchpad~
+change what happens when you use four finger taps on the touchpad~
+change what happens when you drag three fingers on the touchpad~
+change what closing the lid does~
+change wallpaper~
+change virtual private networks (vpn)~
+change user~
+change user account control settings~
+change touch input settings~
+change time~
+change time zone~
+change theme~
+change the way measurements are displayed~
+change the way dates and lists are displayed~
+change the way currency is displayed~
+change the time~
+change the time zone~
+change the theme~
+change the speed the cursor moves when you use the touchpad~
+change the size of apps on the screen~
+change the sign-in requirements~
+change the search provider in internet explorer~
+change the screen resolution~
+change the screen orientation~
+change the primary button on your mouse~
+change the picture on your lock screen~
+change the narrator voice~
+change the narrator voice's speed~
+change the narrator voice's pitch~
+change the mouse pointer size~
+change the mouse pointer display or speed~
+change the mouse pointer color~
+change the date and time~
+change the date and time format~
+change text-to-speech settings~
+change text size~
+change temporary internet file settings~
+change tablet pen settings~
+change system sounds~
+change sound card settings~
+change smartscreen settings~
+change size~
+change sign~
+change settings for multiple displays~
+change settings for content received using tap and send~
+change security settings~
+change search options for files and folders~
+change screensaver~
+change screen saver~
+change screen resolution~
+change resolution~
+change remove~
+change region~
+change proxy settings~
+change program~
+change pin~
+change password~
+change or remove a program~
+change narrator settings~
+change name~
+change my name~
+change multi-touch gesture settings~
+change mouse settings~
+change mouse key settings~
+change mobile hotspot settings~
+change manual proxy server settings~
+change login~
+change lock~
+change location~
+change location settings~
+change limit~
+change language~
+change how windows searches~
+change how web pages are displayed in tabs~
+change how thick the cursor is~
+change how the mouse pointer looks when it's moving~
+change how narrator reads hints for controls and buttons~
+change how far you scroll with the mouse wheel~
+change homepage~
+change homegroup password~
+change home page~
+change font size~
+change font settings~
+change ethernet settings~
+change display~
+change directaccess settings~
+change dial-up settings~
+change device installation settings~
+change device encryption settings~
+change desktop icon~
+change desktop background~
+change default~
+change default printer~
+change default browser~
+change date~
+change date and time~
+change data usage limits~
+change cursor blink rate~
+change color~
+change clock~
+change changes~
+change cellular settings~
+change browser~
+change background~
+change a~
+change automatic maintenance settings~
+change advanced startup options~
+change advanced color management settings for displays, scanners, and printers~
+change adapter settings~
+change account~
+certmgr~
+certificates~
+certain tasks~
+center~
+center transparent~
+cellular~
+cellular settings~
+cd drive~
+case~
+card settings~
+captioning settings~
+caps~
+capslock~
+caps-lock~
+caps lock, num lock, and scroll lock~
+capitalize~
+capitalize the first letter of a sentence with the touch keyboard~
+capital capitals~
+canon printer~
+cannon printer~
+cancel printing~
+can use your language list~
+can use your advertising id~
+can use remote desktop~
+can snap next to it~
+can run in the background~
+cameras~
+camera to create an account picture~
+camera settings~
+camera privacy settings~
+call history privacy settings~
+calibration~
+calibrate the screen for pen or touch input~
+calibrate pen~
+calibrate display color~
+calendar privacy settings~
+cache~
+bypass~
+by your offline files~
+by dragging them to the sides or corners of the screen~
+by deleting unnecessary files~
+buttons~
+buttons to perform certain tasks~
+button on your mouse~
+button buttons~
+button at the end of taskbar~
+build~
+buetooth~
+browsing history~
+browser~
+browsers~
+browser settings on this pc~
+browser history~
+browser browsers~
+browser add-ons~
+browse for an account picture~
+broadband~
+broadband connection~
+brih~
+brigt~
+bright~
+brightness~
+brightness on or off~
+brightness level of the display~
+brief or repeated keystrokes~
+branch branches~
+bounce~
+boot options~
+boot menu~
+boot manager~
+boot disk~
+boot boots~
+bly~
+bluw~
+bluu~
+blutooth~
+blute~
+blure~
+blulue~
+blui~
+bluettoth~
+bluetoth~
+bluetooth~
+bluetoothe~
+bluetooth settings~
+bluetooth devices~
+bluetoooth~
+bluetooh~
+blueti~
+bluethooth~
+bluescreen problems~
+bluer~
+blueoo~
+bluel~
+bluee~
+blue'~
+blue tooth~
+blooth~
+block pop~
+block or allow third-party cookies~
+block or allow pop-ups~
+bllue~
+blink rate~
+blie~
+bleu~
+bku~
+bitlocker~
+bit)~
+bit version of windows~
+bit or 64-bit version of windows~
+bit locker~
+bit application support~
+bios~
+biometric~
+bio biometric biometrics~
+bin~
+bigger~
+best~
+before giving a presentation~
+be the main display~
+be sent from this computer~
+battery~
+battery saver~
+battery saver on or off~
+battery power~
+battery life~
+battery batteries~
+batteries~
+bass~
+bar~
+badge~
+badges~
+badges on the taskbar~
+backup~
+backup settings~
+backup backups~
+backup and restore (windows 7)~
+backround~
+backlit~
+background~
+backgrounds~
+background, slideshow, or solid color as your background mode~
+background settings~
+background mode~
+background images~
+background color~
+background backgrounds~
+background apps~
+backgroud~
+back-up back-ups~
+back up~
+back up your recovery key~
+back up and restore~
+back to windows 8~
+back to windows 8.1~
+back to windows 7~
+back to an earlier build~
+back ground~
+azure~
+available~
+available space~
+available on a website~
+auto~
+autoupdate~
+autoupdate autoupdates~
+autostart~
+autoshift~
+autorun~
+autoplay~
+autoplay settings~
+autoplay on or off~
+autoplay defaults~
+automatic~
+automatically~
+automatically when you start windows~
+automatically size it to fill available space~
+automatically hide the taskbar~
+automatically hide the taskbar in tablet mode~
+automatically by dragging them to the sides or corners of the screen~
+automatic updates~
+automatic proxy detection on or off~
+automatic proxy configuration~
+automatic maintenance settings~
+autohide~
+autocorrection autocorrections~
+autocorrect misspelled words~
+autocorrect autocorrects~
+autocomplete in internet explorer on or off~
+auto-shift~
+auto-correction auto-corrections~
+auto-correct auto-corrects~
+auto-brightness~
+auto updates~
+auto start~
+auto play~
+auto layout~
+auto brightness~
+auto brightness on or off~
+auido~
+audo~
+audip~
+audio~
+audio troubleshooter~
+audio settings~
+audio recording problems~
+audio playback problems~
+audio manager~
+audio driver~
+audio devices~
+audio description for video~
+audio cues~
+at the end of taskbar~
+at a time for keyboard shortcuts~
+associate~
+associated~
+assist~
+assistance invitations to be sent from this computer~
+assigned access~
+as your lock screen background mode~
+as your background mode~
+as you use windows~
+as i type~
+as a touch keyboard option~
+arrange~
+arrange windows automatically by dragging them to the sides or corners of the screen~
+arm~
+area~
+are synced on this pc~
+are shown~
+are right or left handed~
+are displayed~
+are displayed in tabs~
+are affecting your battery life~
+archived messages~
+aps~
+app~
+apps~
+apps to show quick status~
+apps show notifications~
+apps quieter when narrator is on~
+apps on the screen~
+apps in start~
+apps can use your advertising id~
+apps can run in the background~
+apps are affecting your battery life~
+apps and features~
+apps & features~
+apps  features~
+apply color to title bar~
+apply color to start, taskbar, and action center~
+applications~
+application support~
+appearances~
+appearance settings~
+appearance and performance of windows~
+appear on the taskbar~
+appear on start~
+app to display detailed status~
+app to create an account picture~
+app through windows firewall~
+app size~
+app settings~
+app notifications on or off~
+app icons on the taskbar in tablet mode~
+app for each type of file~
+app for each protocol~
+app apps~
+app accounts~
+app account settings~
+aouns~
+aound~
+anyconnect~
+any adjacent snapped window~
+antivirus~
+anti virus~
+anti malware~
+announcement announcements~
+animations on or off~
+animation animations~
+and touch~
+and touch info~
+and time~
+and time format~
+and time formats~
+and tasks~
+and suggestions as you use windows~
+and sharing center~
+and send~
+and scroll lock~
+and restore (windows 7)~
+and resolve issues~
+and repair network problems~
+and related settings~
+and profile settings~
+and printers~
+and performance of windows~
+and other settings~
+and other potentially unwanted software~
+and other keyboard settings~
+and other items larger or smaller~
+and optimize your drives~
+and off~
+and navigation~
+and modem~
+and maintenance~
+and lists are displayed~
+and keyboard settings~
+and keyboard options~
+and hide fonts~
+and help you, or offer to help someone else~
+and groups~
+and format hard disk partitions~
+and folders~
+and fix windows update problems~
+and fix problems~
+and fix problems with windows search~
+and fix problems with homegroup~
+and fix problems with devices~
+and fix printing problems~
+and fix networking and connection problems~
+and fix keyboard problems~
+and fix bluescreen problems~
+and fix audio recording problems~
+and fix audio playback problems~
+and features~
+and drag on the touchpad~
+and devices~
+and desktops~
+and desktop connections~
+and connection problems~
+and cameras~
+and buttons~
+and action center~
+and action center transparent~
+an rss feed is available on a website~
+an optional feature~
+an earlier build~
+an app to display detailed status~
+an app to create an account picture~
+an app through windows firewall~
+an account picture~
+an account for assigned access~
+alt~
+alttab~
+alt+tab when using virtual desktops~
+alone for a period of time~
+allow your organization to manage your pc~
+allow third-party cookies~
+allow swiping in from touchpad edges~
+allow remote assistance invitations to be sent from this computer~
+allow remote access to your computer~
+allow pop-ups~
+allow pop ups~
+allow firewall~
+allow family members to use this pc~
+allow cookies~
+allow app~
+allow an app through windows firewall~
+all problem reports~
+all displays~
+album~
+airplane~
+airplane mode~
+airplane mode on or off~
+affecting your battery life~
+aero~
+aero snap~
+ad~
+adware~
+advertising~
+advertising id~
+advanced windows update options~
+advanced user profile properties~
+advanced system settings~
+advanced startup options~
+advanced sound~
+advanced sharing settings~
+advanced settings~
+advanced printer~
+advanced printer setup~
+advanced power settings~
+advanced options~
+advanced display settings~
+advanced color management settings for displays, scanners, and printers~
+advance system~
+advance start~
+aduio~
+ads~
+adope~
+adobe flash player~
+admin~
+administrator~
+administrator administrators~
+administrative tools~
+administrative templates~
+administration~
+administrater~
+admin tools~
+admin admins~
+adjust~
+adjust windows~
+adjust volume~
+adjust time~
+adjust the brightness level of the display~
+adjust the appearance and performance of windows~
+adjust system volume~
+adjust sound~
+adjust settings before giving a presentation~
+adjust screen resolution~
+adjust screen brightness~
+adjust cleartype text~
+adjust brightness~
+adjust appearance~
+adjacent snapped window~
+add~
+addremove programs~
+addprinter~
+addor~
+addons~
+additional~
+added apps in start~
+add-ons~
+add, remove, or manage email accounts~
+add, remove, or manage app accounts~
+add, edit, or remove other people~
+add wireless printer~
+add windows~
+add user~
+add users~
+add user account~
+add scanner~
+add remo~
+add remove programs~
+add remove manage~
+add remoe~
+add pro~
+add programs~
+add printer~
+add printers~
+add package~
+add ore~
+add or remove programs~
+add or remove devices~
+add or remove a provisioning package~
+add ons~
+add new user~
+add network printer~
+add language~
+add features~
+add device~
+add devices~
+add clocks for different time zones~
+add bluetooth~
+add blocker~
+add and remove programs~
+add an optional feature~
+add adds~
+add account~
+add a user~
+add a space when you choose a text suggestion~
+add a prin~
+add a printer~
+add a period when you double-tap the spacebar~
+add a language to this device~
+add a folder to the lock screen slideshow~
+add a device~
+adapt~
+adaptive~
+adapter settings~
+ad remove~
+ad or~
+ad ads~
+active~
+activex~
+active x~
+active directory~
+activation~
+activation activations~
+activated~
+activate windows~
+activate activates~
+actions~
+actions to keep windows running smoothly~
+actions settings~
+action center~
+action center transparent~
+action actions~
+acount~
+account~
+accounts~
+account settings~
+account picture~
+account picture and profile settings~
+account info privacy settings~
+account for assigned access~
+account control settings~
+account accounts~
+accont~
+accommodate low vision~
+accommodate learning abilities~
+access~
+accessibility~
+accessibility settings~
+accessibility disability disabilities~
+accessability~
+access to your computer~
+access settings~
+access remoteapp and desktops~
+access mouse settings~
+access keys~
+access keyboard settings~
+access center~
+accesibility~
+accent~
+accent color~
+about your pc~
+about your computer~
+about windows~
+about this pc~
+about this computer~
+about pc~
+about computer~
+abode~
+abobe~
+abilities~
+aad~
+a window, show what i can snap next to it~
+a window, automatically size it to fill available space~
+a website~
+a touchpad delay~
+a touch keyboard option~
+a tone when pressing caps lock, num lock, and scroll lock~
+a time for keyboard shortcuts~
+a text suggestion~
+a system health report~
+a space when you choose a text suggestion~
+a snapped window, simultaneously resize any adjacent snapped window~
+a sentence with the touch keyboard~
+a second screen~
+a restore point~
+a recovery drive~
+a provisioning package~
+a program~
+a program from the network~
+a problem~
+a presentation~
+a power plan~
+a picture password~
+a picture fit~
+a period when you double-tap the spacebar~
+a period of time~
+a password reset disk~
+a new edition of windows~
+a mouse is connected~
+a monitor to be the main display~
+a microphone~
+a language to this device~
+a folder to the lock screen slideshow~
+a file~
+a display~
+a dial-up connection~
+a default web browser~
+a default video player~
+a default photo viewer~
+a default music player~
+a default map app~
+a default email app~
+a default app for each type of file~
+a default app for each protocol~
+a connection or network~
+a clean install of windows~
+a broadband connection~
+a 32-bit or 64-bit version of windows~
+8~
+8.1~
+7~
+7)~
+64bit~
+64-bit)~
+64-bit version of windows~
+64 bit~
+4g~
+3g~
+32-bit)~
+32-bit or 64-bit version of windows~
+32 bit~
+2g~
+1~
+16-bit application support~
+.tmp~
+.temp~
+*.tmp~
+%tem~
+ voice~
+ typing~
+ tts~
+ text-to-speech~
+ text texts~
+ task~
+ tasks~
+ sms~
+ rcs~
+ rcse~
+ privacy~
+ preview~
+ people~
+ peek~
+ mms~
+ message messages~
+ leave~
+ inking~
+ group~
+ domain domains~
+ disk sizes~
+ desktop~
+ connect connection~
+ combine~
+ calendar calendars~
+ button~
+ buttons~
+ badging~
+ badges~
+ app~
+ apps~
+ appointment appointments~
+ activity~
+ activity detection~
